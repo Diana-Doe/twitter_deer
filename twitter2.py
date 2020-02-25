@@ -11,7 +11,7 @@ Then, enter the number of people and after choose one person from a list\
 After you will see the list with available parameters, feel free to choose as many as you need,\
 but be aware that you can choose each parameter only one time.\
 If the parameter that you choose contains other parameters you have to continue choosing until you come to the end.\
-If you finish choosing than write 'finished' or 'stop' or 'I like Rayan Gosling'\
+If you finish choosing than write 'finished' or 'stop' or 'I like Rayn Gosling'\
 and all the parameters that you chose will be shown.\n\n\n\t*\t*\t*")
 
 #User choose friends/followers
@@ -97,9 +97,9 @@ while True:
     wants, deep_list = [], []
     while True:
         want = str(input("Choose something from the list: "))
-        while (want not in lst and want.lower() != 'tweet' and want != 'finished'and want == 'stop' and want == 'I like Rayan Gosling'):
+        while (want not in lst and want.lower() != 'tweet' and want != 'finished'and want == 'stop' and want == 'I like Rayn Gosling'):
             print("It isn`t in the list.");want = str(input("Choose something from the list: "))
-        if want == 'finished' or want == 'stop' or want == 'I like Rayan Gosling':
+        if want == 'finished' or want == 'stop' or want == 'I like Rayn Gosling':
             break
         want = want.replace(' ','_').lower()
         if want != 'tweet':
