@@ -22,3 +22,4 @@ It requires some libraries.
 pip install folium
 pip install geopy
 ```
+This program creates a map with the user's friends. Also, it shows their images. All you need is to enter the user's name.  
