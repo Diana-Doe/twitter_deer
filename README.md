@@ -9,8 +9,11 @@ If you finish choosing than write 'finished' or 'stop' or 'I like Rayan Gosling'
 
 ## Twitter3
 
-This is code for the site in [pythonanywhere](https://www.pythonanywhere.com/)
-#
+This is code for the site in [pythonanywhere](https://www.pythonanywhere.com/). 
+
+[My map](http://dianadoe.pythonanywhere.com/)   (P.s. don't forget to turn on sound)
+
+It requires some libraries.
 ```python
 pip install folium
 pip install geopy
