@@ -12,6 +12,7 @@ If you finish choosing than write 'finished' or 'stop' or 'I like Rayan Gosling'
 This is code for the site in [pythonanywhere](https://www.pythonanywhere.com/). 
 
 [My map](http://dianadoe.pythonanywhere.com/)   (P.s. don't forget to turn on sound)
+![photo_2020-02-25_22-17-33](https://user-images.githubusercontent.com/54356826/75284100-c4a99c80-581c-11ea-9722-3c3ab262be6a.jpg)
 
 It requires some libraries.
 ```python
