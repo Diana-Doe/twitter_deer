@@ -15,6 +15,7 @@ This is code for creating the site in [pythonanywhere](https://www.pythonanywher
 #
 ![photo_2020-02-25_22-17-33](https://user-images.githubusercontent.com/54356826/75284100-c4a99c80-581c-11ea-9722-3c3ab262be6a.jpg)
 #
+![image](https://user-images.githubusercontent.com/54356826/75284500-9d070400-581d-11ea-9d68-a6409192579c.png)
 
 It requires some libraries.
 ```python
